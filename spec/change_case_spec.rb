@@ -1,4 +1,4 @@
-require 'change-case'
+require 'change_case'
 
 snakes_and_camels = {
   'boa_constrictor' => 'boaConstrictor',
