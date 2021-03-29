@@ -2,4 +2,4 @@
 
 A repo to practise and demonstrate TDD
 
-Functions to change between the different cases; snake, camel, etc
+Functions to change between snake case and camel case
